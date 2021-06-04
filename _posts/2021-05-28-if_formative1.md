@@ -8,6 +8,7 @@ toc_label: "페이지 주요 목차"
 
 ### 01. 사주보기
 ![사주](/assets/images/사주보기.jpg)
+
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -23,8 +24,10 @@ printf("당신의 사주는 그럭저럭입니다.\n");
 return 0;
 }
 ~~~ 
+
 ### 02. 3개의 터널 통과
 ![3개의터널통과](/assets/images/3개의터널통과.jpg)
+
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -42,8 +45,10 @@ printf("무사 통과");
 return 0;
 }
 ~~~
+
 ### 03. 이 달은 며칠까지 있을까?
 ![이달은며칠까지있을까](/assets/images/이달은며칠까지있을까.jpg)
+
 ~~~c
 #include <stdio.h>
 int main(void)
